@@ -49,3 +49,4 @@ if __name__ == "__main__":
     app = ShapeDrawer(root, "img.png")
     root.mainloop()
     app.save_shapes()
+    
